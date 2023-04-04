@@ -24,5 +24,6 @@
 
 bool taskX(int x1, int y1, int x2, int y2) {
 	
+//	return x1 < 1 || x1 > 8 || y1 < 1 || y1 > 8 ? false : y1 + 2 = y2 && ;
 	return false;
 }
